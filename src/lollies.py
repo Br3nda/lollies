@@ -1,0 +1,2 @@
+class Lollies(object):
+  pass
