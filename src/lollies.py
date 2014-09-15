@@ -1,2 +1,3 @@
 class Lollies(object):
-  pass
+  def open_jar(self):
+     return True 
